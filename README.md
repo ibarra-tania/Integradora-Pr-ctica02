@@ -19,9 +19,9 @@ EJEMPLOS:
 ####### Encabezado de Nivel 7 - solo son los niveles permitidos, a partir de este el maquetado será ignorado.
 
 ### 2.Separadores (SEPARATORS)
-Si desea markar una separación más visual de contenidos podemos utilizarlos indicando tres carácteres de guión medio "-"continúos, en el maquetado
+Si desea marcar una separación más visual de contenidos podemos utilizarlos indicando tres carácteres de guión medio "-"continúos, en el maquetado
 
 
 EJEMPLO
 ---
-*Esto es similar a un tag de <HR> en HTML.
+*Esto es similar a un tag de < HR > en HTML.
