@@ -9,6 +9,7 @@ a usuarios y colaboradores del proyecto entender el contexto y operació del mis
 ### 1. Encabezados o Títulos (HEADERS)
 Para poder realizar una buena documentación del proyecto debemos, distribuir correctamente los contenido, para poder delimitar o hacer enfásis (enfatizar) es decir resaltar las secciones importantes, podemos utilizar los siguientes:
 
+EJEMPLOS:
 # Encabezado de Nivel 1 - similar a H1 en HTML
 ## Encabezado de Nivel 2 - similar a H2 en HTML
 ### Encabezado de Nivel 3 - similar a H3 en HTML
@@ -16,3 +17,11 @@ Para poder realizar una buena documentación del proyecto debemos, distribuir co
 ##### Encabezado de Nivel 5 - similar a H5 en HTML
 ###### Encabezado de Nivel 6 - similar a H6 en HTML
 ####### Encabezado de Nivel 7 - solo son los niveles permitidos, a partir de este el maquetado será ignorado.
+
+### 2.Separadores (SEPARATORS)
+Si desea markar una separación más visual de contenidos podemos utilizarlos indicando tres carácteres de guión medio "-"continúos, en el maquetado
+
+
+EJEMPLO
+---
+*Esto es similar a un tag de <HR> en HTML.
