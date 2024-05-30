@@ -64,4 +64,15 @@ Este párrafo esta centrado usando la propiedad de alineacion.  Este párrafo es
 Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación.Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación.
 </p>
 
+### 4. Texto enfatizado (BOLD,ITALIC, BOLD/ITALIC)
+
+Si el texto que deseamos enfatizar se encuentra en un párrafo, podemos utilizar algunos trucos para ubicarlos en la documentación.
+
+##### Texto en Negrita (BOLD)
+Para poder poner el texto en negrita, este debera ser encerrado en dos **
+
+EJEMPLO:
+Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto **Texto importante**Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
+
+
 
