@@ -74,5 +74,12 @@ Para poder poner el texto en negrita, este debera ser encerrado en dos **
 EJEMPLO:
 Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto **Texto importante**Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
 
+##### Texto en Cursiva (ITALIC)
+Para poder poner el texto en cursiva, es anteponer un asterisco (*) o un guión bajo (_)
+
+EJEMPLO:
+Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto *Texto importante*Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto _Texto importante_ Texto Texto Texto Texto Texto Texto Texto 
+
+
 
 
