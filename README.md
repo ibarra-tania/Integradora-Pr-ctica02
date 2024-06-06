@@ -82,6 +82,7 @@ Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto *T
 
 
 ##### Texto en negrita y cursiva (BOLD/ITALIC)
+Para poder poner el texto en negrita y cursiva debe ser encerrado entre tres asteriscos (***)
 
 Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto ***Texto importante*** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto ***Texto importante*** Texto Texto Texto Texto Texto Texto Texto 
 
