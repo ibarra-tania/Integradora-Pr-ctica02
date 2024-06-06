@@ -156,6 +156,7 @@ Pero si deseamos ponersolo lasligas directas o un correo electrónico podemos ut
 **EJEMPLO**
 
 Documentación creada por: ***Tania Ibarra Salgado***
+
 <230369@utxicotepec.edu.mx>
 
 <http://www.utxicotepec.edu.mx>
