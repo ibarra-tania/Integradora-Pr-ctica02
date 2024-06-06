@@ -78,7 +78,13 @@ Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto **
 Para poder poner el texto en cursiva, es anteponer un asterisco (*) o un guión bajo (_)
 
 EJEMPLO:
-Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto *Texto importante*Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto _Texto importante_ Texto Texto Texto Texto Texto Texto Texto 
+Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto *Texto importante* Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto _Texto importante_ Texto Texto Texto Texto Texto Texto Texto 
+
+
+##### Texto en negrita y cursiva (BOLD/ITALIC)
+
+Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto ***Texto importante*** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto ***Texto importante*** Texto Texto Texto Texto Texto Texto Texto 
+
 
 
 
