@@ -84,8 +84,15 @@ Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto *T
 ##### Texto en negrita y cursiva (BOLD/ITALIC)
 Para poder poner el texto en negrita y cursiva debe ser encerrado entre tres asteriscos (***)
 
+Ejemplo:
 Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto ***Texto importante*** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto ***Texto importante*** Texto Texto Texto Texto Texto Texto Texto 
 
+##### Texto subrayado (UNDERLINE) 
+
+Algunas veces necesitaremos subrayar texto dentro de la documentación, para ello, si bien markdown no tiene un atajo o codificación rápida podemos utilizar el estilo que usa el estándar de HTML usando el tag \<ins> y cerrando con \</ins>.
+
+Ejemplo:
+Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto ***Texto importante*** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto <ins>Texto importante Texto Texto</ins> Texto Texto Texto Texto Texto 
 
 
 
