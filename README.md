@@ -109,3 +109,21 @@ Continuamos con los comandos básicos de Git y Github para el maquetado de la do
   > C:/dir
 
 Después oprimimos la tecla "enter". 
+
+También podemos ingresar textos multilineales
+
+**EJEMPLO:**
+
+>Aquí se ingresa un conjunto de instrucciones
+>para explicar al usuario, como instalar el
+>software que hemos diseñado.
+
+ Y si deseamos incluir viñetas para enlistar pasos podemos utilizar el caracter 
+ -dentro del texto a documentar.
+
+**EJEMPLO**
+ **Pasos para instalar la base de datos**
+ > - Descargar MySQL Server delsitio oficial
+>  - Instalar el SistemaGestor de Base de Datos, definiendo el puerto y contraseña para el usuario ***root***
+>  - Descargamos el archivo de respaldo de la base de datos (.sql)
+>  - RestauramFiles/MySQL/MySQL Server 8.0/bin/mysql -u root -p password \< respaldo.sql
