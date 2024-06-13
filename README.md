@@ -160,3 +160,7 @@ Documentación creada por: ***Tania Ibarra Salgado***
 <230369@utxicotepec.edu.mx>
 
 <http://www.utxicotepec.edu.mx>
+
+#### 8. Imágenes 
+
+Las imágenes son utilizadas para representar y demostrar los elementos/pasos creados durante la documentación de nuestro proyecto. Es importante que se demuestre con claridad.
