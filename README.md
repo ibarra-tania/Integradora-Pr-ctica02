@@ -164,3 +164,5 @@ Documentación creada por: ***Tania Ibarra Salgado***
 #### 8. Imágenes 
 
 Las imágenes son utilizadas para representar y demostrar los elementos/pasos creados durante la documentación de nuestro proyecto. Es importante que se demuestre con claridad.
+
+https://raw.githubsercontent.com/ibarra-tania/Integradora-Pr-ctica02/main/assets/github.jpg
