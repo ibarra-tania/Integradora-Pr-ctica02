@@ -164,5 +164,8 @@ Documentación creada por: ***Tania Ibarra Salgado***
 #### 8. Imágenes 
 
 Las imágenes son utilizadas para representar y demostrar los elementos/pasos creados durante la documentación de nuestro proyecto. Es importante que se demuestre con claridad.
+Para poder subir un archivo, antes que nada se tiene que añadir al repositorio, y subirlo con especificaciones correspondientes. Para despues ingresar a este y **copiar la ruta.**
+De primera mano, el primer símbolo a ingresar es una cierre de admiración, para después colocar dos corchetes y dos llaves en donde entre ellas  se copiara la ruta de la imagen deseada.
 
-github.jpg
+
+![](https://github.com/ibarra-tania/Integradora-Pr-ctica02/blob/main/github.jpg)
