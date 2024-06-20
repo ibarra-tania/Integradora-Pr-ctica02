@@ -262,4 +262,4 @@ Si la documentación requiere de incorporar imágenes, esquemas, modelos, fotogr
 
 **EJEMPLO**
 
-![Pikachu](link de imagen)
+![Pikachu](https://github.com/ibarra-tania/Integradora-Pr-ctica02/blob/main/pikachu.jpg)
