@@ -169,3 +169,20 @@ De primera mano, el primer símbolo a ingresar es una cierre de admiración, par
 
 
 ![](https://github.com/ibarra-tania/Integradora-Pr-ctica02/blob/main/github.jpg)
+
+
+#### 8. Tablas(Tables)
+
+Si la documentación lo requiere podemos presentar información en formato de tablas con filas y columnas, para maquetarlas podemos utilizar el carácter \| para delimitar las columnas y \- para delimitar las filas.
+
+
+
+**EJEMPLO:**
+
+| Encabezado 1 | Encabezado 2 | Encabezado 3 | Encabezado 4|
+|--------------|--------------|--------------|-------------|
+| Fila 1 Celda 1 | Fila 1 Celda 2 | Fila 1 Celda 3 | Fila 1 Celda 4 |
+| Fila 2 Celda 1 | Fila 2 Celda 2 | Fila 2 Celda 3 | Fila 2 Celda 4 |
+| Fila 3 Celda 1 | Fila 3 Celda 2 | Fila 3 Celda 3 | Fila 3 Celda 4 |
+
+
