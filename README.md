@@ -200,7 +200,7 @@ En caso de necesitar la fusión de celdas en columnas usaremos la propiedad *col
 | Fila 6 Celda 1 | Fila 6 Celda 2 | Fila 6 Celda 3 | Fila 6 Celda 4 |
 
 
-Dado que en el ejemplo pasado usando solo markdown no se puede realizar la fusión de filas debemos utilizar el estándar de HTML, usando los tags: \<tr> para las filas y <td> para las celdas, y en ellos utilizar la propiedad de *colspan* y *rowspan*
+Dado que en el ejemplo pasado usando solo markdown no se puede realizar la fusión de filas debemos utilizar el estándar de HTML, usando los tags: \<tr> para las filas y \<td> para las celdas, y en ellos utilizar la propiedad de *colspan* y *rowspan*
 
 
 **EJEMPLO:**
