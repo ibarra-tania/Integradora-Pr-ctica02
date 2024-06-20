@@ -255,3 +255,11 @@ Dado que en el ejemplo pasado usando solo markdown no se puede realizar la fusi�
 </table>
 
 
+
+#### 9.- Imágenes 
+
+Si la documentación requiere de incorporar imágenes, esquemas, modelos, fotografías o cualquier representación gráfica, utilizaremos la estructura de la liga, maquetando el nombre de la imagen entre con un signo de admiración de cierre y la liga de referencia a la imagen usando paréntesis.
+
+**EJEMPLO**
+
+![Pikachu](link de imagen)
